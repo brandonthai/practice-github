@@ -1,3 +1,2 @@
-# My fav candy is Skittles
-# Edited readme.md
-# edit 2
+# My fav candy is Kit Kat
+
